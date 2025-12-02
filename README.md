@@ -1,6 +1,6 @@
 # Packet Scheduling and Traffic Flow Simulation
 
-This project simulates basic packet scheduling algorithms in C++ to study how different queueing disciplines affect network performance.
+This project simulates basic packet scheduling algorithms in C++ to study how different queueing disciplines affect network performance. It compares FIFO, SPQ, and PAQD under varying traffic loads by measuring delay, packet drop ratio, and queue utilization.
 
 ---
 
